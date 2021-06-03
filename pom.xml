@@ -19,6 +19,9 @@
     <kotlin.version>1.4.10</kotlin.version>
     <sonar.sources>src/main/java,src/main/kotlin</sonar.sources>
     <sonar.tests>src/test/java,src/test/kotlin</sonar.tests>
+    <sonar.projectKey>ramansawhney04_mvn-project</sonar.projectKey>
+    <sonar.organization>ramansawhney04</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <dependencies>
